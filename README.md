@@ -1,5 +1,5 @@
 # KNN
-Glass Dataset:-
+1) Glass Dataset:-
 
 Prepare a model for glass classification using KNN  Data Description:
 
@@ -37,6 +37,6 @@ Type: Type of glass: (class attribute)
 
 7 --headlamps
 
-Zoo Dataset:-
+2) Zoo Dataset:-
 
 Implement a KNN model to classify the animals in to categorie
